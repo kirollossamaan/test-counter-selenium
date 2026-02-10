@@ -10,8 +10,9 @@ buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 
-# TestNG / Test output (only index.html is tracked)
+# TestNG / Test output (only emailable-report.html is tracked)
 test-output/*
+!test-output/emailable-report.html
 *.log
 
 # Eclipse
