@@ -12,7 +12,6 @@ buildNumber.properties
 
 # TestNG / Test output (only index.html is tracked)
 test-output/*
-!test-output/index.html
 *.log
 
 # Eclipse
